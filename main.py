@@ -95,3 +95,5 @@ async def create(body: UserIn, db=Depends(get_db)):
 
 
 Base.metadata.create_all()
+#ytgftrdrtfgyuhnuyfrt
+#trftyghbiytgytfyt
